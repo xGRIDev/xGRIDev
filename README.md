@@ -6,11 +6,7 @@
 <p align="left"> 
 Hi, Zufar Mahasin Naufal. People Called ME xGRID as usual nick <br> <br>
 
-💻 Senior Software Engineer at [Itaú Unibanco](https://www.itau.com.br/)<br>
-📚 Studying Spring Framework, Microservices, Clean Code, AWS and DataDog<br>
-📄 [AWS](https://www.credly.com/badges/410c0c66-2cc3-4da9-b447-408e37ba69f7/public_url) and [Azure](https://www.credly.com/badges/3bf6bae3-7368-47a5-816c-c34d75dc4ba6?source=linked_in_profile) Certified<br> 
-👨‍💻 Graduated in Information Systems at [FIAP](https://www.fiap.com.br/)<br>
-🚀 3 years as a [Gold Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/en-US/profile/3841)<br>
+<br>
 </p> 
  <h2 align="left"> 💻 Languages and Tools:</h2>
 
