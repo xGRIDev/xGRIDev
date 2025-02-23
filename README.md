@@ -4,7 +4,7 @@
  <img src="./jjean-dev-logo-v1-04.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Logo jjean_dev png">
 
 <p align="left"> 
-Hi, my name is Jean Jacques Barros! I like to share knowledge and solve problems and in my perspective, technology is a means to achieve these goals. I currently work as a Software Engineer in a Brazilian Bank. I've been dedicating my time to creating content about IT on my Blog/GitHub and learning about Microservices, Java Spring, and Cloud Technologies. <br> <br>
+Hi, Zufar Mahasin Naufal. People Called ME xGRID as usual nick <br> <br>
 
 💻 Senior Software Engineer at [Itaú Unibanco](https://www.itau.com.br/)<br>
 📚 Studying Spring Framework, Microservices, Clean Code, AWS and DataDog<br>
