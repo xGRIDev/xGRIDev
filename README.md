@@ -1,14 +1,9 @@
 
 ### Hi, Folks ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
-<p align="left"></p>
-<img src="./ProfilePicturePhoto.jpg" min-width="250px" max-width="250px" width="250px" align="right" alt="Logo jjean_dev png">
-
-<p align="left"> 
-Hi, Zufar Mahasin Naufal. People Called ME xGRID as usual nick <br> <br>
-
-<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer&text=%5xI'mxGRID%5"/>
 </p> 
- <h2 align="left"> 💻 Languages and Tools:</h2>
+ <h2 align="left"> 💻 Languages and Tools: </h2>
 
 <table align="center">
   <tr>
@@ -95,6 +90,4 @@ Hi, Zufar Mahasin Naufal. People Called ME xGRID as usual nick <br> <br>
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=zufarnaufal8" alt="Data Card for Spotify">
 </a>
 </div>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer&text=%5xGRID%5"/>
-</p>
+
