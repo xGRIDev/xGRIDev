@@ -1,7 +1,6 @@
 
 ### Hi, Folks ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
 <p align="left"></p>
- <img src="./jjean-dev-logo-v1-04.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Logo jjean_dev png">
 
 <p align="left"> 
 Hi, Zufar Mahasin Naufal. People Called ME xGRID as usual nick <br> <br>
