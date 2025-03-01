@@ -1,7 +1,7 @@
 
 ### Hi, Folks ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer&text=%5xI'mxGRID%5"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=xGRID&reversal=true&textBg=false&section=footer"/>
 </p> 
  <h2 align="left"> 💻 Languages and Tools: </h2>
 
